@@ -9,5 +9,6 @@ https://github.com/bala28/OptanixTest
 4) Launch http://localhost:8080/swagger-ui.html to see the endpoints.
 
 
-
+#Technologies
+Spring boot, java 8, junit 5
 
